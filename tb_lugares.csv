@@ -1,0 +1,26 @@
+lugar_id,nombre,municipio,categoria,subcategoria,latitud,longitud,altitud_msnm,precio_entrada_cop,capacidad_max_dia,dificultad_acceso,clima_predominante,calificacion_promedio,activo
+1,Nevado del Ruiz,Villamaría,naturaleza,volcán/glaciar,5.321,-75.374,5321,25000,80,difícil,frío,4.8,True
+2,Termales de Santa Rosa,Santa Rosa,relax,termal,5.027,-75.618,1980,35000,150,moderado,templado,4.7,True
+3,Termales del Otoño,Villamaría,relax,termal,5.128,-75.451,3200,40000,100,difícil,frío,4.6,True
+4,Catedral Basílica de Manizales,Manizales,cultural,patrimonio religioso,5.07,-75.517,2153,0,500,fácil,templado,4.5,True
+5,Ecoparque Los Yarumos,Manizales,naturaleza,senderismo/ecoparque,5.063,-75.503,2180,8000,300,fácil,templado,4.4,True
+6,Hacienda Guayabal (Café),Neira,gastronomico,finca cafetera,5.182,-75.524,1600,45000,120,fácil,templado,4.7,True
+7,Hacienda Venecia (Café),Chinchiná,gastronomico,finca cafetera,5.003,-75.619,1470,55000,100,fácil,cálido,4.8,True
+8,Río Manso (Rafting),Norcasia,aventura,rafting/deportes,5.582,-74.895,300,80000,60,moderado,cálido,4.6,True
+9,Cañón del Río Claro,Samaná,naturaleza,cañón/espeleología,5.651,-74.886,300,70000,80,difícil,cálido,4.7,True
+10,Cascada El Taburete,Manizales,naturaleza,cascada/senderismo,5.041,-75.468,2100,0,200,moderado,templado,4.3,True
+11,Recinto del Pensamiento,Manizales,naturaleza,jardín/cultura,5.101,-75.425,2300,25000,250,fácil,frío,4.5,True
+12,Parque Metropolitano Olas,Manizales,aventura,surf de río/deportes,5.072,-75.51,2150,20000,180,fácil,templado,4.2,True
+13,Iglesia de Salamina,Salamina,cultural,patrimonio UNESCO,5.501,-75.484,1850,0,400,fácil,templado,4.6,True
+14,Jardín Botánico de Manizales,Manizales,naturaleza,jardín botánico,5.059,-75.495,2100,12000,350,fácil,templado,4.3,True
+15,Museo de Arte de Caldas,Manizales,cultural,museo de arte,5.067,-75.516,2153,5000,400,fácil,templado,4.1,True
+16,Finca El Ocaso (Café),Salento,gastronomico,finca cafetera,4.637,-75.571,1900,40000,90,fácil,templado,4.9,True
+17,Reserva Selva de Florencia,Samaná,naturaleza,reserva natural,5.619,-74.984,800,5000,50,difícil,cálido,4.5,True
+18,Palacio de Bellas Artes,Manizales,cultural,patrimonio/teatro,5.069,-75.516,2153,8000,300,fácil,templado,4.2,True
+19,Aguas Termales de Neira,Neira,relax,termal,5.196,-75.51,1500,20000,130,fácil,templado,4.0,True
+20,Cerro Sancancio,Manizales,aventura,senderismo/mirador,5.09,-75.47,2600,0,120,moderado,frío,4.4,True
+21,Malecón del Río Chinchiná,Chinchiná,cultural,paseo fluvial,5.005,-75.604,1050,0,600,fácil,cálido,3.9,True
+22,Zoológico de Manizales,Manizales,naturaleza,zoológico,5.07,-75.545,2050,18000,500,fácil,templado,4.3,True
+23,Termales de Aguadas,Aguadas,relax,termal,5.613,-75.46,1800,25000,100,moderado,templado,4.1,True
+24,Santuario de Fauna y Flora Otún,Villamaría,naturaleza,santuario/fauna,5.055,-75.387,3700,10000,40,difícil,frío,4.7,True
+25,Festival Internacional de Teatro,Manizales,cultural,festival/evento,5.07,-75.517,2153,0,1000,fácil,templado,4.9,True
